@@ -82,7 +82,7 @@
 .close_box {
   position: absolute;
   left: calc(50% + 16.91vw);
-  top: calc(7.5314vw - 42px);
+  top: calc(50% - 18vw);
   transform: translate(-100%, -100%);
   width: 2.1921vw;
   cursor: pointer;
@@ -114,6 +114,6 @@
   .close_box {
     width: 5vw;
     left: calc(50% + 32vw);
-    top: 26vw;
+    top: calc(50% - 34vw);
   }
 }
