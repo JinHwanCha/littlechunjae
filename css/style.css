@@ -102,3 +102,18 @@
   right: 1.8424vw;
   bottom: 1.8424vw;
 }
+
+@media (max-width: 768px) {
+  .swiper {
+    width: 80%;
+  }
+  .swiper-slide {
+    width: 64vw;
+    height: 64vw;
+  }
+  .close_box {
+    width: 5vw;
+    left: calc(50% + 32vw);
+    top: 26vw;
+  }
+}
