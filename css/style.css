@@ -116,4 +116,15 @@
     left: calc(50% + 32vw);
     top: calc(50% - 34vw);
   }
+  .popup_link {
+    right: 1.7395vw;
+    bottom: 1.8395vw;
+    width: 8.2902vw;
+    height: 2.2779vw;
+    border-radius: 3.6889vw;
+  }
+  .popup_link.link_d {
+    right: 3.4424vw;
+    bottom: 3.6424vw;
+  }
 }
